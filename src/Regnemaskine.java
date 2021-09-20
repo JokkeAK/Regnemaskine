@@ -28,5 +28,11 @@ public class Regnemaskine {
             break;
         }
         System.out.println(num1+" "+operator+" "+num2+" = "+answer);
+
+
+
+
+
+        //SimonBruuns burde hedde SBSIMONSEN
         }
     }
