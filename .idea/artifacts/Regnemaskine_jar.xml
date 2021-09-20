@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Regnemaskine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Regnemaskine_jar</output-path>
+    <root id="archive" name="Regnemaskine.jar">
+      <element id="module-output" name="Regnemaskine" />
+    </root>
+  </artifact>
+</component>
