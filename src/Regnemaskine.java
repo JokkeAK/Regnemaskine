@@ -39,6 +39,6 @@ public class Regnemaskine {
 
 
 
-        //simonsen fød  mine børn
+        //simonsen fød  mine børn!!!!
         }
     }
