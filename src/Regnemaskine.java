@@ -39,6 +39,20 @@ public class Regnemaskine {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         //simonsen fød  mine børn!!!!
         }
     }
