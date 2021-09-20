@@ -33,6 +33,12 @@ public class Regnemaskine {
 
 
 
-        //SimonBruuns burde hedde SBSIMONSEN
+
+
+
+
+
+
+        //simonsen fød  mine børn
         }
     }
