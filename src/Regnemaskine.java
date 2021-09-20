@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class Regnemaskine {
     public static void main(String[] args) {
+        //du dum
+
+
+        //tabere
 
         float num1;
         float num2;
