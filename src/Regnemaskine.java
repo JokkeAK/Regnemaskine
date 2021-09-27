@@ -22,7 +22,7 @@ public class Regnemaskine {
         operator = scanObject.next().charAt(0);
 
         switch (operator) {
-            case '*': answer = num1 + num2;
+            case '+': answer = num1 + num2;
             break;
             case '-': answer = num1 - num2;
             break;
